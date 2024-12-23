@@ -15,3 +15,4 @@ FROM
 WHERE 
     metascore IS NOT NULL
     AND publisher IS NOT NULL
+-- gamesss
