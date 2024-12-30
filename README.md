@@ -58,7 +58,8 @@ The end-to-end pipeline follows these steps:
 * Infrastructure Setup: Use Terraform to deploy and manage the GCP infrastructure.
   
 More detailed information is provided in the diagram below:
-<img width="551" alt="Architecture Game Steam" src="https://github.com/user-attachments/assets/7c3e1600-17fe-44ed-a901-784cc1945bd2" />
+
+<img width="600" alt="Architecture Game Steam" src="https://github.com/user-attachments/assets/1c398065-5a17-4600-bf1b-27e6d466b582" />
 
 The dashboard is created using Looker. The process for building such a dashboard in Looker is detailed in this tutorial.
 
