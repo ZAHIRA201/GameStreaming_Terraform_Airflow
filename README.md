@@ -59,7 +59,7 @@ The end-to-end pipeline follows these steps:
   
 More detailed information is provided in the diagram below:
 
-<img width="600" alt="Architecture Game Steam" src="https://github.com/user-attachments/assets/1c398065-5a17-4600-bf1b-27e6d466b582" />
+<img width="680" alt="Architecture Game Steam" src="https://github.com/user-attachments/assets/1c398065-5a17-4600-bf1b-27e6d466b582" />
 
 The dashboard is created using Looker. The process for building such a dashboard in Looker is detailed in this tutorial.
 
